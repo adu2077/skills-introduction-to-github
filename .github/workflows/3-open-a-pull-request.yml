@@ -1,4 +1,4 @@
-name: Step 3 # Open a pull request
+name: Step 3
 
 # Checks if the learner completed tasks for step 3.
 # - Triggers when the user creates or edits the pull request.
